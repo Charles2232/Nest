@@ -1,0 +1,85 @@
+body
+{
+    background-color:cornsilk;
+    background-image: url(https://i.pinimg.com/originals/2e/a0/89/2ea0890014d0e4b78c59abdff3529e7a.jpg);
+}
+.heady
+{
+    font-size: xx-large;
+    display: flex;
+   justify-content: center;
+}
+.gawk
+{
+   display: flex;
+   justify-content: center;
+}
+.ime
+{
+    margin-left: 80px;
+    display: flex;
+}
+.biggest
+{
+  font-size: xx-large;
+}
+.bigger
+{
+    font-size: x-large;
+}
+.box
+{
+    box-shadow: 0px 0px 10px chocolate;
+    width: 80%;
+    display: flex;
+    margin: 100px;
+    background-color: aliceblue;
+}    
+.phot
+{
+    padding-left: 400px;
+    width: 50%;
+    background-color: aliceblue;
+}
+.det
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: bold;
+    width: 50%;
+    background-color: aliceblue;
+    padding-left: 5px;
+}
+.links
+{
+    margin: 100px;
+    font-size: x-large;
+    font-style: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.details
+{
+    margin: 100px;
+    font-size: xx-large;
+    font-style: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.hd
+{
+    margin: 100px;
+}
+.bck
+{
+    margin: 100px;
+}
+.hea
+{
+    margin: 100px;
+}
+.add
+{
+    margin: 100px;
+}
+.bacckk
+{
+    margin: 100px;
+}
